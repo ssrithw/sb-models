@@ -1,2 +1,2 @@
 # sb-models
-jupyter notebook for my tensorflow model
+realized far too late that i should have uploaded the source code for accountability, oops
